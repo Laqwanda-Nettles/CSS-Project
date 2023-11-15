@@ -36,6 +36,7 @@ button {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  white-space: inherit;
 }
 
 .hero-img {
@@ -53,6 +54,7 @@ nav {
   background-color: #250902;
   padding: 5px;
   text-align: center;
+  white-space: nowrap;
 }
 
 nav li {
@@ -70,6 +72,7 @@ nav li {
   padding-top: 2vh;
   padding-bottom: 5vh;
   background-color: rgba(134, 73, 57, 0.4);
+  white-space: nowrap;
 }
 
 .hero-txt h2 {
