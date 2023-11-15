@@ -23,11 +23,11 @@ a {
 }
 
 a:hover {
-  color: #A8763E;
+  color: #a8763e;
 }
 
 button {
-  background-color: #A8763E;
+  background-color: #a8763e;
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -57,7 +57,7 @@ nav {
 
 nav li {
   display: inline;
-  background-color: #640D14;
+  background-color: #640d14;
   padding: 15px;
   margin: 3px;
   color: whitesmoke;
@@ -91,7 +91,7 @@ h2 {
 }
 
 table {
-  border: 3px ridge #6F1A07;
+  border: 3px ridge #6f1a07;
   border-collapse: collapse;
   width: 100%;
   font-size: 2em;
@@ -99,21 +99,21 @@ table {
 }
 
 thead th {
-  background-color: #6F1A07;
+  background-color: #6f1a07;
   color: white;
 }
 
 tbody tr:nth-child(odd) {
-  background-color: #A8763E;
+  background-color: #a8763e;
   color: white;
 }
 
 tbody tr:nth-child(even) {
-  background-color: #F7F3E3
+  background-color: #f7f3e3;
 }
 
 tfoot {
-  background-color: #6F1A07;
+  background-color: #6f1a07;
   color: white;
 }
 
@@ -131,14 +131,14 @@ tfoot {
 }
 
 #about-main {
-  background-color: #A8763E;
+  background-color: #a8763e;
   padding: 5px;
   text-align: center;
   color: white;
 }
 
 article {
-  background-color: #A8763E;
+  background-color: #a8763e;
   padding: 5px;
   margin: 5px;
   color: white;
@@ -148,6 +148,8 @@ article {
 
 .contact-info {
   line-height: 0.3;
+  white-space: nowrap;
+  text-align: center;
 }
 
 main p {
@@ -160,6 +162,6 @@ footer {
   color: aliceblue;
   padding: 2vh;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   margin-top: 20vh;
 }
